@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523437951864",
+    "project_id": "scrubhub-mobile",
+    "storage_bucket": "scrubhub-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523437951864:android:3949e8b54eda02befd968d",
+        "android_client_info": {
+          "package_name": "com.mima429.ScrubHubMobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPaJvyE90clnYSr-BxZgdfTEbjbsF4m0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
